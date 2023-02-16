@@ -1,2 +1,2 @@
-# CozyVim-Custom
-Custom setting template for CozyVim
+# CozyVim
+Custom setting template for [CozyVim](https://github.com/ingur/CozyVim)
